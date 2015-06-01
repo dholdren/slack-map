@@ -1,0 +1,5 @@
+{
+  "name": "slack-map",
+  "description": "A slack webhook for the Google Static Maps API",
+  "repository": "https://github.com/dholdren/slack-map"
+}
