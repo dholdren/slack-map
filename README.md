@@ -1,4 +1,5 @@
 ## slack-map: A slack webhook for the Google Static Maps API
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 slack-map lets you post static Google Maps images into your Slack instance. Request a map with a command like `map London` and an image of that location will be posted into your Slack channel along with a link to open the map in your browser.
 
